@@ -1,0 +1,6 @@
+C:\Programacion\UTN\2\PROGR Y LABORATORIO 2\Ejercitacion\MetodosEstaticos\CentralitaAbstract\bin\Debug\CentralitaAbstract.dll
+C:\Programacion\UTN\2\PROGR Y LABORATORIO 2\Ejercitacion\MetodosEstaticos\CentralitaAbstract\bin\Debug\CentralitaAbstract.pdb
+C:\Programacion\UTN\2\PROGR Y LABORATORIO 2\Ejercitacion\MetodosEstaticos\CentralitaAbstract\obj\Debug\CentralitaAbstract.csprojResolveAssemblyReference.cache
+C:\Programacion\UTN\2\PROGR Y LABORATORIO 2\Ejercitacion\MetodosEstaticos\CentralitaAbstract\obj\Debug\CentralitaAbstract.csproj.CoreCompileInputs.cache
+C:\Programacion\UTN\2\PROGR Y LABORATORIO 2\Ejercitacion\MetodosEstaticos\CentralitaAbstract\obj\Debug\CentralitaAbstract.dll
+C:\Programacion\UTN\2\PROGR Y LABORATORIO 2\Ejercitacion\MetodosEstaticos\CentralitaAbstract\obj\Debug\CentralitaAbstract.pdb

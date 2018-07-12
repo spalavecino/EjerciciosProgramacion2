@@ -1,0 +1,4 @@
+C:\Programacion\UTN\2\PROGR Y LABORATORIO 2\Ejercitacion\MetodosEstaticos\Ej18\obj\Debug\netcoreapp2.0\Ej18.csproj.CoreCompileInputs.cache
+C:\Programacion\UTN\2\PROGR Y LABORATORIO 2\Ejercitacion\MetodosEstaticos\Ej18\obj\Debug\netcoreapp2.0\Ej18.AssemblyInfoInputs.cache
+C:\Programacion\UTN\2\PROGR Y LABORATORIO 2\Ejercitacion\MetodosEstaticos\Ej18\obj\Debug\netcoreapp2.0\Ej18.AssemblyInfo.cs
+C:\Programacion\UTN\2\PROGR Y LABORATORIO 2\Ejercitacion\MetodosEstaticos\Ej18\obj\Debug\netcoreapp2.0\Ej18.csprojResolveAssemblyReference.cache
